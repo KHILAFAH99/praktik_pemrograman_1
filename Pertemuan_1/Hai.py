@@ -9,4 +9,5 @@ print("why")
 print("upload")
 print(x + x + x)
 print ( x - x)
+print (9%2)
 
