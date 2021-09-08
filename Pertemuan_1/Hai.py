@@ -1,13 +1,10 @@
-x  = 19
+name = "imam"
+age = input("berapa?")
+if int(age) >= 17:
+    print("dewasa anda")
 
-print(x + x)
 
-print("Hello Python")
-print("helloooo")
-print("run")
-print("why")
-print("upload")
-print(x + x + x)
-print ( x - x)
-print (9%2)
+print("nama saya " + name + ", saya berusia " + str(age))
+
+
 
