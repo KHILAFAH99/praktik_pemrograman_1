@@ -21,7 +21,7 @@ no5          = "| 5 "
 no6          = "| 6 "
 no7          = "| 7 "
 
-# Buat Function Header tabel
+# Buat Function untuk Header tabel
 def header():
     print(listTutup)
     print(listLongkap)
