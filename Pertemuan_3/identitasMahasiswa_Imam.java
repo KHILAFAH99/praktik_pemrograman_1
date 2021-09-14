@@ -22,7 +22,7 @@ public class identitasMahasiswa_Imam {
         String no6          = "| 6 ";
         String no7          = "| 7 ";
 
-        // Header
+        // Header tabel
         System.out.println (listTutup);
         System.out.println (listLongkap);
         System.out.println ("|    DATA IDENTITAS MAHASISWA UNY 2021    |");
