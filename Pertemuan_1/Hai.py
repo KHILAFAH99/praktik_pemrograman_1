@@ -1,5 +1,4 @@
-print("HAAIII")
+print("Hallo Pak Pradana")
 
-#komen dalam pyhon
 
 
