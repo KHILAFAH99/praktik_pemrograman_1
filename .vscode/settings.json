@@ -2,7 +2,9 @@
     "workbench.colorTheme": "Dracula",
     "git.enableSmartCommit": true,
     "java.project.sourcePaths": [
+        "Pertemuan_3",
+        "Pertemuan_2",
         "Pertemuan_1",
-        "Pertemuan_2"
+        ""
     ]
 }

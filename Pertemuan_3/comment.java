@@ -6,8 +6,7 @@ Syntax untuk komentar lebih dari satu baris
 
 public class comment {
     public static void main (String[] args) {
-        // Ini komentar
-        System.out.println("Ini bukan komentar");
+        System.out.println("Ini bukan komentar");   // Ini komentar
     }
 }
 
