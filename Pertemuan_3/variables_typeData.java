@@ -11,5 +11,6 @@ public class variables_typeData {
         System.out.println("Saya berumur " + age + " tahun");
         System.out.println("Tinggi badan saya " + height + " CM");
        
+        
     }
 }

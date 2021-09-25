@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch tugaskalkulator",
+            "request": "launch",
+            "mainClass": "Pertemuan_4.tugaskalkulator",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch comment",
+            "request": "launch",
+            "mainClass": "comment",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch identitasMahasiswa_Imam",
+            "request": "launch",
+            "mainClass": "identitasMahasiswa_Imam",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch variables_typeData",
+            "request": "launch",
+            "mainClass": "variables_typeData",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        }
+    ]
+}
