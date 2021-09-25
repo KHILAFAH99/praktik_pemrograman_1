@@ -18,7 +18,7 @@ b            = input("Masukan Angka Kedua: " )
 angkaPertama = int(a)
 angkaKedua   = int(b)
 
-    # Operasi hitung diberikan dalam masing masing variabel
+    # Operasi hitung diberikan dalam masing masing variabel.
 operasiTambah        = angkaPertama +  angkaKedua
 operasiKurang        = angkaPertama -  angkaKedua
 operasiKali          = angkaPertama *  angkaKedua
