@@ -1,8 +1,6 @@
 package Pertemuan_4;
-
 // mengambil class import
 import java.util.Scanner;
-
 
 class tugaskalkulator{
     public static void main(String[] args) {
