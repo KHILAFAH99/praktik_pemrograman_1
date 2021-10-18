@@ -22,11 +22,11 @@ if (menu == 1):
 
     if (menuSatu == 1):
         namaAnda = input("Masukan nama Anda = ")
-        print ("Nama Mahasiswa yang ditambahkan adalah " + namaAnda )
+        print ("Nama Mahasiswa yang ditambahkan adalah  " + namaAnda )
 
     elif (menuSatu == 2):
         mataKuliah = input ("Masukan Mata Kuliah Anda = ")
-        print ("Mata Kuliah yang ditambahkan adalah " + mataKuliah)
+        print ("Mata Kuliah yang ditambahkan adalah" + mataKuliah)
 
     elif (menuSatu == 3):
         print ("Terima Kasih ")

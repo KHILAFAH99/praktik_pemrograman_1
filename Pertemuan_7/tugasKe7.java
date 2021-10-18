@@ -1,3 +1,4 @@
+package Pertemuan_7;
 // panggil function input
 import java.util.Scanner;
 

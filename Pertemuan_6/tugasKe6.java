@@ -17,6 +17,7 @@ public class tugasKe6 {
             if (i == Math.pow(5, x)) {
                 System.out.println(i);
                 x++;
+    
             }
             i++;
         }
