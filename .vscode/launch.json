@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch tugasKe6",
+            "request": "launch",
+            "mainClass": "tugasKe6",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch tugasSementara",
+            "request": "launch",
+            "mainClass": "tugasSementara",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch predikatKelulusan",
+            "request": "launch",
+            "mainClass": "Pertemuan_5.predikatKelulusan",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Pertemuan_4.test",
+            "projectName": "10. PRAKTIK_PEMROGRAMAN_1_ae7f1858"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
