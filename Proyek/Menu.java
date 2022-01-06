@@ -599,7 +599,7 @@ public class Menu {
                     editPilihNim();
                     break;
                 }
-                else{
+                else if (pilihMenu > 1 || pilihMenu < 0){
                     System.out.println("      # Menu Tidak tersedia! ):");
                 }
             }
