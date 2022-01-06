@@ -1,3 +1,5 @@
+package Pertemuan_3;
+
 /*
 Syntax untuk komentar lebih dari satu baris
 Syntax untuk komentar lebih dari satu baris

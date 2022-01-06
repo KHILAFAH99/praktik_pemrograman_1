@@ -1,3 +1,4 @@
+
 public class Data_Manusia {
     protected double tinggiBadan;
 

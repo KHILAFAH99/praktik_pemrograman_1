@@ -1,3 +1,5 @@
+package Pertemuan_8;
+
 public class arrayNormal {
     public static void main(String[] args) {
         String buah1 = "Mangga";

@@ -1,7 +1,10 @@
 {
     "java.project.sourcePaths": [
-        "Pertemuan_8",
-        "Pertemuan_2",
-        "Proyek"
+        "Proyek",
+        ""
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/imaji/Downloads/git clone/java-console-colors/java-console-colors.jar"
     ]
 }

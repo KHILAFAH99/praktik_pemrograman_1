@@ -1,3 +1,5 @@
+package Pertemuan_9;
+
 import java.util.Scanner;
 
 public class tugasSementara {

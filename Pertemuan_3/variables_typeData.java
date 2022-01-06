@@ -1,3 +1,5 @@
+package Pertemuan_3;
+
 public class variables_typeData {
     public static void main(String[] args) {
         
